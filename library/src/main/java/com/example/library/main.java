@@ -9,7 +9,7 @@ public class main {
 
     public static void getName()
     {
-        Log.i("Azeem","Azeem");
+        Log.i("Azeem","OSama");
     }
 
 }
